@@ -1,0 +1,23 @@
+Cucumber kullanarak,
+1- https://demoqa.com/elements sayfasını açan, "Buttons" öğesine tıklayan, "Click Me" düğmesine
+tıklayan ve görünen mesajı okuyan bir test yazın.
+2- https://demoqa.com/webtables sayfasını açan, "ADD" düğmesine tıklayarak yeni bir kayıt ekleyen,
+eklenen kaydı düzenleyen bir test yazın.
+
+TestNG.xml:
+//kodlarımızı calıstırmak ıcın testng.xml den calıstırıcaz.
+------------------------------------------------
+Odev17Lesson23
+1.
+https://demoqa.com/elements gıdılır
+button tıklanır
+"Click Me" düğmesine
+tıklayan
+ vegorunen mesaj okunur
+-------------------------------------------------
+2.
+https://demoqa.com/webtables acılır
+
+add buton tıklanır
+regıstratıon form doldurulur
+
